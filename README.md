@@ -1,5 +1,6 @@
 # week4project
 <br />This project is to do web scraping and some analysis on the wikipedia page of J. Robert Oppenheimer.
+<br />![ws](https://github.com/franco05hk/week4project/assets/71271948/974f2130-8c21-42e6-ac78-62af32b0c2c3)
 
 <br />Page link: https://en.wikipedia.org/wiki/J._Robert_Oppenheimer#References
 
